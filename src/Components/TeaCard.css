@@ -1,0 +1,7 @@
+.tea_image{
+    width: 128px;
+    height: 128px;
+    border-radius: 50px;
+}
+
+/* style={{ width: '128px', height: '128px', rounded:'full'}} */
